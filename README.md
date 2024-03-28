@@ -6,7 +6,7 @@
 | Description | {A place for musicians to sell guitars} |
 | Developers | {Nicholas Murray} |
 | Live Website | {coming soon} |
-| Repo | {Link to git repository} |
+| Repo | {https://github.com/nmurr13/project4-frontend} |
 
 ## Problem Being Solved and Target Market
 
