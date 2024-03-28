@@ -15,18 +15,19 @@ for sale.
 
 ## User Stories
 
-- Users should be able to see the site on desktop and mobile
-- Users can create a guitar
-- Users can see an inventory of all their guitars
-- Users can update guitars
+- User should be able to see the site on desktop and mobile
+- User can create a guitar
+- User can see an inventory of all their guitars
+- User can update guitars
 - User can delete guitars when they are sold
 
-## Frontend 
-React frontend: React frontend that consumes the Django API
-Diagram of State: Coming Soon
-Wireframe: Coming Soon
+## React Frontend 
+- React frontend that consumes the Django API
+- Diagram of State: Coming Soon
+- Wireframes: Coming Soon
 
 ## MISC
-
+- SASS 
+- Bootstrap Framework
 
 
